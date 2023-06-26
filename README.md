@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+    <h2>Hi I'm Josh Bacon</h2>
+    <p>Computer Sciende Graduate</p>
+    <p>Enjoy building programs that provide a service or are just interesting!</p>
+    <a href="https://www.linkedin.com/in/josh-bacon-9542b3228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+</div>
 
-<!--
-**joshbacon/joshbacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building my portfolio
+- 📫 How to reach me: [joshdbacon@outlook.com](mailto:joshdbacon@outlook.com)
+- 💻 Website: [joshbacon.github.io](https://joshbacon.github.io/)
