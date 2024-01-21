@@ -2,7 +2,7 @@
     <h2>Hi I'm Josh Bacon</h2>
     <p>Computer Sciende Graduate</p>
     <p>Enjoy building programs that provide a service or are just interesting!</p>
-    <a href="https://joshbacon.github.io/" target="_blank">
+    <a href="http://joshbacon.ca/" target="_blank">
         <img src="https://img.shields.io/badge/My_Website-purple?style=for-the-badge&logo=chainguard&logoColor=white" alt="Website Badge" />
     </a>
     <a href="https://www.linkedin.com/in/josh-bacon-9542b3228/" target="_blank">
