@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hi I'm Josh Bacon</h2>
-    <p>Computer Science Graduate</p>
+    <p>Computer Science Graduate - Software Engineering Student</p>
     <a href="http://joshbacon.ca/" target="_blank">
         <img src="https://img.shields.io/badge/My_Website-purple?style=for-the-badge&logo=chainguard&logoColor=white" alt="Website Badge" />
     </a>
