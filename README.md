@@ -13,5 +13,3 @@
 </div>
 
 ---
-
-- 🔭 I’m currently working on building my portfolio
